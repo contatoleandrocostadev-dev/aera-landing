@@ -3,7 +3,7 @@
 Conteúdo: `index.html` (página completa), `assets/` (logos, imagem de compartilhamento, ícones), `robots.txt`, `sitemap.xml`.
 
 ## 1. Endereço público (faça antes de publicar)
-Os arquivos assumem o endereço `https://freitinhas18.github.io/aera-landing/`.
+Os arquivos assumem o endereço `https://contatoleandrocostadev-dev.github.io/aera-landing/`.
 Se a página for para outro endereço, troque esse texto, em todos os lugares, por um localizador do editor, em:
 `index.html` (canonical, og:url, og:image, twitter:image e dados estruturados), `robots.txt` e `sitemap.xml`.
 
@@ -37,7 +37,7 @@ Teste o cartão de compartilhamento no depurador de links do Facebook/LinkedIn e
    (Sem terminal: no repositório, **Add file → Upload files**, arraste todo o conteúdo da pasta e faça o commit.)
 3. No repositório: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main / (root) → Save**.
 4. Em 1 a 2 minutos o site fica em `https://SEU-USUARIO.github.io/aera-landing/`.
-5. Se o endereço for diferente de `https://freitinhas18.github.io/aera-landing/`, troque essa URL no `index.html` (canonical, og:url, og:image, JSON-LD), em `sitemap.xml` e `robots.txt`.
+5. Se o endereço for diferente de `https://contatoleandrocostadev-dev.github.io/aera-landing/`, troque essa URL no `index.html` (canonical, og:url, og:image, JSON-LD), em `sitemap.xml` e `robots.txt`.
 
 ## Formulário para planilha
 Veja `apps-script/GUIA.md`.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freitinhas18.github.io/aera-landing/sitemap.xml
